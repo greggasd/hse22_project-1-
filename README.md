@@ -14,6 +14,10 @@
 | Cupriavidus oxalaticus    | 6093    | 5940376     |  81.41%   | 2875465   |  76868    |  761308    |
 | Cupriavidus necator H16   | 6438    | 6184216     |   83.41%  |  4049965  | 102178    |   1011398  |
 
+# Cсылка на колаб 
+```
+https://colab.research.google.com/drive/17GBxkvsqEz0NnSsiMzG-oSiRwp77o0hy?usp=sharing
+```
 # Гистограммы ZH-Score распредления
 
 ![11](https://user-images.githubusercontent.com/93208971/174084678-6e129050-a537-4477-b2f8-f898860b5d28.png)
