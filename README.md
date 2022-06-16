@@ -5,6 +5,7 @@
 ## Betaproteobacteria, род: Сupriavidus
 
 # Таблица с данными по таблица по 5 выбранным геномам
+
 |  Геном  |  Количество аннотированных генов  |   Длина аннотированных генов |  Доля аннотированных генов  | Суммарная длина Z-DNA | Количество Z-DNA | Количество Z-DNA, где zh-score > 500 |
 | -- | -- | -- | -- | -- | -- | -- |
 |  Cupriavidus basilensis   |   7137  |   6857511   |  76.67%  |  4566734  |  102597   |  1012774   | 
@@ -12,8 +13,6 @@
 |  Cupriavidus gilardii     |  5178   |    5057909  |  87.81%   | 2240840   |  54193    | 528150     |  
 | Cupriavidus oxalaticus    | 6093    | 5940376     |  81.41%   | 2875465   |  76868    |  761308    |
 | Cupriavidus necator H16   | 6438    | 6184216     |   83.41%  |  4049965  | 102178    |   1011398  |
-
-
 
 # Гистограммы ZH-Score распредления
 
@@ -30,6 +29,11 @@
 ![3](https://user-images.githubusercontent.com/93208971/174084234-605464ad-f8cd-4348-930a-0c68c6504988.png)
 ![4](https://user-images.githubusercontent.com/93208971/174084243-3c10d6be-ab43-446a-a08b-19dd4f118ef0.png)
 ![5](https://user-images.githubusercontent.com/93208971/174084245-798e0beb-b908-48cf-9fcd-3f1e4243ea33.png)
+
+# Создаем класторы
+
+![Распределение генов в кластере](https://user-images.githubusercontent.com/93208971/174110752-380beb4f-a17c-48d3-830b-c9e7a2c095d4.png)
+![Распространение видов в кластере](https://user-images.githubusercontent.com/93208971/174110765-5dc76e3b-ca3f-49b4-8c82-549ced6091fd.png)
 
 # Определение кластеров гомологов-белков
 
